@@ -1,4 +1,3 @@
-package proje;
 import java.util.Vector;
 public class ventoryıneleme {
 
@@ -23,3 +22,4 @@ public class ventoryıneleme {
 	}
 
 }
+
